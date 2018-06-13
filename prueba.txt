@@ -1,2 +1,4 @@
 hola; esta es mi primera pruba de programacion gb
+segundo e¿intento estoy modificando el archivo de git 
+
 
